@@ -1,2 +1,2 @@
 MsgBox("Hallo, World!")
-MsgBox("Hausaufgaben Nummer Eins")
+MsgBox("Hausaufgaben N1")
